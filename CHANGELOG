@@ -1,0 +1,16 @@
+# Changelog
+
+## 29-10-2012
+
+- add new variations
+
+## 21-06-2011
+
+- fix bug memory leak
+
+## 22-01-2011
+
+added 2 file in the archive which could help you to create your own rings
+
+- tuto-params-lua.txt
+- tuto-params-lua.png
